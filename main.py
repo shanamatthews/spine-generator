@@ -30,7 +30,7 @@ books_reading = xmltodict.parse(reading_response.content)['GoodreadsResponse']['
 read_fields = ['Title', 'Date Finished', 'Image URL', 'Num Pages']
 
 with open('recently-read.csv', 'w') as csvfile:
-    filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    filewriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
     filewriter.writerow(read_fields)
 
     for book in books_read:
@@ -41,7 +41,7 @@ with open('recently-read.csv', 'w') as csvfile:
 reading_fields = ['Title', 'Date Started', 'Image URL', 'Num Pages']
 
 with open('currently-reading.csv', 'w') as csvfile:
-    filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    filewriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
     filewriter.writerow(reading_fields)
 
     for book in books_reading:
