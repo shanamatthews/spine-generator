@@ -1,0 +1,1546 @@
+<GoodreadsResponse>
+    <Request>
+...
+    </Request>
+    <shelf exclusive="true" id="196026452" name="read" sortable="false"/>
+    <reviews start="1" end="20" total="582">
+        <review>
+            <id>3593383973</id>
+            <book>
+                <id type="integer">54594933</id>
+                <isbn nil="true"/>
+                <isbn13 nil="true"/>
+                <text_reviews_count type="integer">692</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v3.dFLRpflAu_KDqWrB</uri>
+                <title>Kissing the Coronavirus</title>
+                <title_without_series>Kissing the Coronavirus</title_without_series>
+                <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/54594933-kissing-the-coronavirus</link>
+                <num_pages>16</num_pages>
+                <format/>
+                <edition_information/>
+                <publisher>Viralerotica</publisher>
+                <publication_day/>
+                <publication_year/>
+                <publication_month/>
+                <average_rating>2.48</average_rating>
+                <ratings_count>1069</ratings_count>
+                <description>She was supposed to cure the Coronavirus. Instead... she fell in love with it.<br />
+                <br />
+Dr Alexa Ashingtonford is a part of a crack team of scientists tasked with finding the cure to the devastating Coronavirus. Little did she know she would end up falling in love with it, in this steamy viral-erotica.<br />
+            <br />
+            <i>Kissing the Coronavirus</i> is a steamy tale about forbidden love and dark desires come to life.</description>
+        <authors>
+            <author>
+                <id>20773482</id>
+                <name>M.J. Edwards</name>
+                <role/>
+                <image_url nophoto="true">
+                    <![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+                </image_url>
+                <small_image_url nophoto="true">
+                    <![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+                </small_image_url>
+                <link>
+                    <![CDATA[ https://www.goodreads.com/author/show/20773482.M_J_Edwards ]]>
+                </link>
+                <average_rating>2.47</average_rating>
+                <ratings_count>1115</ratings_count>
+                <text_reviews_count>734</text_reviews_count>
+            </author>
+        </authors>
+        <published/>
+        <work>
+            <id>85180882</id>
+            <uri>kca://work/amzn1.gr.work.v3.8BjVsul4cWU6-zZx</uri>
+        </work>
+    </book>
+    <rating>5</rating>
+    <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+    <spoilers_state>none</spoilers_state>
+    <shelves>
+        <shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+    </shelves>
+    <recommended_for/>
+    <recommended_by/>
+    <started_at>Mon Oct 12 23:18:41 -0700 2020</started_at>
+    <read_at>Mon Oct 12 23:30:09 -0700 2020</read_at>
+    <date_added>Mon Oct 12 23:18:41 -0700 2020</date_added>
+    <date_updated>Mon Oct 12 23:34:06 -0700 2020</date_updated>
+    <read_count>1</read_count>
+    <body>
+        <![CDATA[ Basically therapy for coronavirus ptsd ]]>
+    </body>
+    <comments_count>0</comments_count>
+    <url>
+        <![CDATA[ https://www.goodreads.com/review/show/3593383973 ]]>
+    </url>
+    <link>
+        <![CDATA[ https://www.goodreads.com/review/show/3593383973 ]]>
+    </link>
+    <owned>0</owned>
+</review>
+<review>
+    <id>3591800112</id>
+    <book>
+        <id type="integer">34037113</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">6085</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.piq5zqTWOaInrovTf7yEfw</uri>
+        <title>The Rules of Magic (Practical Magic, #0.2)</title>
+        <title_without_series>The Rules of Magic</title_without_series>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492802012l/34037113._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492802012l/34037113._SX50_.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/34037113-the-rules-of-magic</link>
+        <num_pages>369</num_pages>
+        <format>Kindle Edition</format>
+        <edition_information/>
+        <publisher>Simon & Schuster</publisher>
+        <publication_day>10</publication_day>
+        <publication_year>2017</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>3.97</average_rating>
+        <ratings_count>67817</ratings_count>
+        <description>
+            <i>Find your magic</i>
+            <br />
+            <br />
+For the Owens family, love is a curse that began in 1620, when Maria Owens was charged with witchery for loving the wrong man.<br />
+        <br />
+Hundreds of years later, in New York City at the cusp of the sixties, when the whole world is about to change, Susanna Owens knows that her three children are dangerously unique. Difficult Franny, with skin as pale as milk and blood red hair, shy and beautiful Jet, who can read other people’s thoughts, and charismatic Vincent, who began looking for trouble on the day he could walk.<br />
+    <br />
+From the start Susanna sets down rules for her children: No walking in the moonlight, no red shoes, no wearing black, no cats, no crows, no candles, no books about magic. And most importantly, never, ever, fall in love. But when her children visit their Aunt Isabelle, in the small Massachusetts town where the Owens family has been blamed for everything that has ever gone wrong, they uncover family secrets and begin to understand the truth of who they are. Back in New York City each begins a risky journey as they try to escape the family curse.<br />
+<br />
+The Owens children cannot escape love even if they try, just as they cannot escape the pains of the human heart. The two beautiful sisters will grow up to be the revered, and sometimes feared, aunts in <i>Practical Magic</i>, while Vincent, their beloved brother, will leave an unexpected legacy.</description>
+<authors>
+<author>
+    <id>3502</id>
+    <name>Alice Hoffman</name>
+    <role/>
+    <image_url nophoto="false">
+        <![CDATA[ https://images.gr-assets.com/authors/1590599928p5/3502.jpg ]]>
+    </image_url>
+    <small_image_url nophoto="false">
+        <![CDATA[ https://images.gr-assets.com/authors/1590599928p2/3502.jpg ]]>
+    </small_image_url>
+    <link>
+        <![CDATA[ https://www.goodreads.com/author/show/3502.Alice_Hoffman ]]>
+    </link>
+    <average_rating>3.84</average_rating>
+    <ratings_count>635797</ratings_count>
+    <text_reviews_count>65366</text_reviews_count>
+</author>
+</authors>
+<published>2017</published>
+<work>
+<id>55038896</id>
+<uri>kca://work/amzn1.gr.work.v1.k2gd_A-zJt_UScWOGGdxzg</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Sun Oct 11 23:01:47 -0700 2020</started_at>
+<read_at>Sat Oct 24 22:41:46 -0700 2020</read_at>
+<date_added>Sun Oct 11 23:01:35 -0700 2020</date_added>
+<date_updated>Sat Oct 24 22:41:46 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3591800112 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3591800112 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3581560507</id>
+<book>
+<id type="integer">22896</id>
+<isbn>0425190374</isbn>
+<isbn13>9780425190371</isbn13>
+<text_reviews_count type="integer">4881</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.zrmbd_m8bYG1LVsnex36tg</uri>
+<title>Practical Magic (Practical Magic #1)</title>
+<title_without_series>Practical Magic</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490354120l/22896._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490354120l/22896._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/22896.Practical_Magic</link>
+<num_pages>286</num_pages>
+<format>Paperback</format>
+<edition_information>Reissue</edition_information>
+<publisher>Penguin</publisher>
+<publication_day>5</publication_day>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<average_rating>3.77</average_rating>
+<ratings_count>75355</ratings_count>
+<description>The Owens sisters confront the challenges of life and love in this bewitching novel from <i>New York Times</i> bestselling author Alice Hoffman.<br />
+<br />
+For more than two hundred years, the Owens women have been blamed for everything that has gone wrong in their Massachusetts town. Gillian and Sally have endured that fate as well: as children, the sisters were forever outsiders, taunted, talked about, pointed at. Their elderly aunts almost seemed to encourage the whispers of witchery, with their musty house and their exotic concoctions and their crowd of black cats. But all Gillian and Sally wanted was to escape. <br />
+<br />
+One will do so by marrying, the other by running away. But the bonds they share will bring them back—almost as if by magic...<br />
+</description>
+<authors>
+<author>
+<id>3502</id>
+<name>Alice Hoffman</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1590599928p5/3502.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1590599928p2/3502.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/3502.Alice_Hoffman ]]>
+</link>
+<average_rating>3.84</average_rating>
+<ratings_count>635797</ratings_count>
+<text_reviews_count>65366</text_reviews_count>
+</author>
+</authors>
+<published>2003</published>
+<work>
+<id>4030671</id>
+<uri>kca://work/amzn1.gr.work.v1.iIwvFAp4W2i8bpI7Alfl8w</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Mon Oct 05 08:15:18 -0700 2020</started_at>
+<read_at>Sun Oct 11 23:00:31 -0700 2020</read_at>
+<date_added>Mon Oct 05 08:15:17 -0700 2020</date_added>
+<date_updated>Sun Oct 11 23:00:31 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3581560507 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3581560507 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3578738868</id>
+<book>
+<id type="integer">9778945</id>
+<isbn>0393339750</isbn>
+<isbn13>9780393339758</isbn13>
+<text_reviews_count type="integer">1451</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.29_Q9N83WuZSRSO7nb46HA</uri>
+<title>The Shallows: What the Internet Is Doing to Our Brains</title>
+<title_without_series>The Shallows: What the Internet Is Doing to Our Brains</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/9778945-the-shallows</link>
+<num_pages>280</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>W. W. Norton Company</publisher>
+<publication_day>6</publication_day>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<average_rating>3.88</average_rating>
+<ratings_count>23090</ratings_count>
+<description>“Is Google making us stupid?” When Nicholas Carr posed that question, in a celebrated <i>Atlantic Monthly</i> cover story, he tapped into a well of anxiety about how the Internet is changing us. He also crystallized one of the most important debates of our time: As we enjoy the Net’s bounties, are we sacrificing our ability to read and think deeply?<br />
+<br />
+Now, Carr expands his argument into the most compelling exploration of the Internet’s intellectual and cultural consequences yet published. As he describes how human thought has been shaped through the centuries by “tools of the mind”—from the alphabet to maps, to the printing press, the clock, and the computer—Carr interweaves a fascinating account of recent discoveries in neuroscience by such pioneers as Michael Merzenich and Eric Kandel. Our brains, the historical and scientific evidence reveals, change in response to our experiences. The technologies we use to find, store, and share information can literally reroute our neural pathways.<br />
+<br />
+Building on the insights of thinkers from Plato to McLuhan, Carr makes a convincing case that every information technology carries an intellectual ethic—a set of assumptions about the nature of knowledge and intelligence. He explains how the printed book served to focus our attention, promoting deep and creative thought. In stark contrast, the Internet encourages the rapid, distracted sampling of small bits of information from many sources. Its ethic is that of the industrialist, an ethic of speed and efficiency, of optimized production and consumption—and now the Net is remaking us in its own image. We are becoming ever more adept at scanning and skimming, but what we are losing is our capacity for concentration, contemplation, and reflection.<br />
+<br />
+Part intellectual history, part popular science, and part cultural criticism, <i>The Shallows</i> sparkles with memorable vignettes—Friedrich Nietzsche wrestling with a typewriter, Sigmund Freud dissecting the brains of sea creatures, Nathaniel Hawthorne contemplating the thunderous approach of a steam locomotive—even as it plumbs profound questions about the state of our modern psyche. This is a book that will forever alter the way we think about media and our minds.</description>
+<authors>
+<author>
+<id>151353</id>
+<name>Nicholas Carr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1452271518p5/151353.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1452271518p2/151353.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/151353.Nicholas_Carr ]]>
+</link>
+<average_rating>3.86</average_rating>
+<ratings_count>28703</ratings_count>
+<text_reviews_count>3688</text_reviews_count>
+</author>
+</authors>
+<published>2011</published>
+<work>
+<id>7205526</id>
+<uri>kca://work/amzn1.gr.work.v1.ZOEF4zXgtiu-8mu2ikUdyw</uri>
+</work>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at>Thu Dec 01 00:00:00 -0800 2011</read_at>
+<date_added>Sat Oct 03 11:55:16 -0700 2020</date_added>
+<date_updated>Sat Oct 03 11:55:45 -0700 2020</date_updated>
+<read_count>2</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3578738868 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3578738868 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3557306672</id>
+<book>
+<id type="integer">34210334</id>
+<isbn>1743535864</isbn>
+<isbn13>9781743535868</isbn13>
+<text_reviews_count type="integer">758</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.KBfaDoOJh-Va6Qx34N9Vtw</uri>
+<title>First, We Make the Beast Beautiful: A New Story About Anxiety</title>
+<title_without_series>First, We Make the Beast Beautiful: A New Story About Anxiety</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488372286l/34210334._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488372286l/34210334._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/34210334-first-we-make-the-beast-beautiful</link>
+<num_pages>320</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Macmillan Australia</publisher>
+<publication_day>28</publication_day>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<average_rating>3.83</average_rating>
+<ratings_count>7612</ratings_count>
+<description>
+<i>This journey is what I do now. I bump along, in fits and starts, on a perpetual path to finding better ways for me and my mate, Anxiety, to get around. It's everything I do.</i>
+<br />
+<br />
+Sarah Wilson—bestselling author and entrepreneur, intrepid solver of problems and investigator of how to live a better life—has helped over 1.2 million people across the world to quit sugar. She has also been an anxiety sufferer her whole life.<br />
+<br />
+In her new book, she directs her intense focus and fierce investigatory skills onto this lifetime companion of hers, looking at the triggers and treatments, the fashions and fads. She reads widely and interviews fellow sufferers, mental health experts, philosophers, and even the Dalai Lama, processing all she learns through the prism her own experiences.<br />
+<br />
+Sarah pulls at the thread of accepted definitions of anxiety, and unravels the notion that it is a difficult, dangerous disease that must be medicated into submission. Ultimately, she re-frames anxiety as a spiritual quest rather than a burdensome affliction, a state of yearning that will lead us closer to what really matters.<br />
+<br />
+Practical and poetic, wise and funny, this is a small book with a big heart. It will encourage the myriad sufferers of the world's most common mental illness to feel not just better about their condition, but delighted by the possibilities it offers for a richer, fuller life.</description>
+<authors>
+<author>
+<id>26182</id>
+<name>Sarah Wilson</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/26182.Sarah_Wilson ]]>
+</link>
+<average_rating>3.77</average_rating>
+<ratings_count>12875</ratings_count>
+<text_reviews_count>1478</text_reviews_count>
+</author>
+</authors>
+<published>2017</published>
+<work>
+<id>55257551</id>
+<uri>kca://work/amzn1.gr.work.v1.biBBNQ3JkOyycPI_BgMEZw</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Sat Sep 19 21:22:02 -0700 2020</started_at>
+<read_at>Sat Sep 26 23:30:42 -0700 2020</read_at>
+<date_added>Sat Sep 19 21:22:02 -0700 2020</date_added>
+<date_updated>Sat Sep 26 23:30:43 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3557306672 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3557306672 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3548711760</id>
+<book>
+<id type="integer">34912895</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">30202</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.5ZRo6WcLqk3_gUaY5bQmDQ</uri>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/34912895-the-great-alone</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4.34</average_rating>
+<ratings_count>377112</ratings_count>
+<description>Alaska, 1974.<br />
+Unpredictable. Unforgiving. Untamed.<br />
+For a family in crisis, the ultimate test of survival.<br />
+<br />
+Ernt Allbright, a former POW, comes home from the Vietnam war a changed and volatile man. When he loses yet another job, he makes an impulsive decision: he will move his family north, to Alaska, where they will live off the grid in America’s last true frontier.<br />
+<br />
+Thirteen-year-old Leni, a girl coming of age in a tumultuous time, caught in the riptide of her parents’ passionate, stormy relationship, dares to hope that a new land will lead to a better future for her family. She is desperate for a place to belong. Her mother, Cora, will do anything and go anywhere for the man she loves, even if it means following him into the unknown<br />
+<br />
+At first, Alaska seems to be the answer to their prayers. In a wild, remote corner of the state, they find a fiercely independent community of strong men and even stronger women. The long, sunlit days and the generosity of the locals make up for the Allbrights’ lack of preparation and dwindling resources.<br />
+<br />
+But as winter approaches and darkness descends on Alaska, Ernt’s fragile mental state deteriorates and the family begins to fracture. Soon the perils outside pale in comparison to threats from within. In their small cabin, covered in snow, blanketed in eighteen hours of night, Leni and her mother learn the terrible truth: they are on their own. In the wild, there is no one to save them but themselves.<br />
+<br />
+In this unforgettable portrait of human frailty and resilience, Kristin Hannah reveals the indomitable character of the modern American pioneer and the spirit of a vanishing Alaska―a place of incomparable beauty and danger. The Great Alone is a daring, beautiful, stay-up-all-night story about love and loss, the fight for survival, and the wildness that lives in both man and nature.</description>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1517255843p5/54493.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1517255843p2/54493.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/54493.Kristin_Hannah ]]>
+</link>
+<average_rating>4.29</average_rating>
+<ratings_count>1991312</ratings_count>
+<text_reviews_count>176905</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>56275107</id>
+<uri>kca://work/amzn1.gr.work.v1.QcLathGGPvMXqLXONoCNyw</uri>
+</work>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Mon Sep 14 14:06:40 -0700 2020</started_at>
+<read_at>Sat Sep 19 11:39:03 -0700 2020</read_at>
+<date_added>Mon Sep 14 14:06:40 -0700 2020</date_added>
+<date_updated>Sat Sep 19 11:39:03 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3548711760 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3548711760 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3531108966</id>
+<book>
+<id type="integer">41209795</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">7</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.hQ8UdM5tIPtdKevOFmNyJQ</uri>
+<title>Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence</title>
+<title_without_series>Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/41209795-why-women-have-better-sex-under-socialism</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4.02</average_rating>
+<ratings_count>1451</ratings_count>
+<description>
+<b>A spirited, deeply researched exploration of why capitalism is bad for women and how, when done right, socialism leads to economic independence, better labor conditions, better work-life balance and, yes, even better sex.</b>
+<b>
+<br />
+</b>In a witty, irreverent op-ed piece that went viral, Kristen Ghodsee argued that women had better sex under socialism. The response was tremendous -- clearly she articulated something many women had sensed for years: the problem is with capitalism, not with us.<br />
+<br />
+Ghodsee, an acclaimed ethnographer and professor of Russian and East European Studies, spent years researching what happened to women in countries that transitioned from state socialism to capitalism. She argues here that unregulated capitalism disproportionately harms women, and that we should learn from the past. By rejecting the bad and salvaging the good, we can adapt some socialist ideas to the 21st century and improve our lives.<br />
+<br />
+She tackles all aspects of a woman's life - work, parenting, sex and relationships, citizenship, and leadership. In a chapter called "Women: Like Men, But Cheaper," she talks about women in the workplace, discussing everything from the wage gap to harassment and discrimination. In "What To Expect When You're Expecting Exploitation," she addresses motherhood and how "having it all" is impossible under capitalism.<br />
+<br />
+Women are standing up for themselves like never before, from the increase in the number of women running for office to the women's march to the long-overdue public outcry against sexual harassment. Interest in socialism is also on the rise - whether it's the popularity of Bernie Sanders or the skyrocketing membership numbers of the Democratic Socialists of America. It's become increasingly clear to women that capitalism isn't working for us, and Ghodsee is the informed, lively guide who can show us the way forward.</description>
+<authors>
+<author>
+<id>415271</id>
+<name>Kristen R. Ghodsee</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1526510352p5/415271.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1526510352p2/415271.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/415271.Kristen_R_Ghodsee ]]>
+</link>
+<average_rating>4.02</average_rating>
+<ratings_count>1871</ratings_count>
+<text_reviews_count>304</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>60663891</id>
+<uri>kca://work/amzn1.gr.work.v1.99VkHzmjYtedOXNg_qiEww</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Thu Sep 03 22:47:37 -0700 2020</started_at>
+<read_at>Sat Sep 12 10:27:32 -0700 2020</read_at>
+<date_added>Thu Sep 03 22:47:37 -0700 2020</date_added>
+<date_updated>Sat Sep 12 10:27:32 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3531108966 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3531108966 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3523162982</id>
+<book>
+<id type="integer">594134</id>
+<isbn>0451200527</isbn>
+<isbn13>9780451200525</isbn13>
+<text_reviews_count type="integer">603</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.fICviCTcMfyzcPkaFkw93Q</uri>
+<title>By the Pricking of My Thumbs (Tommy and Tuppence, #4)</title>
+<title_without_series>By the Pricking of My Thumbs</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/594134.By_the_Pricking_of_My_Thumbs</link>
+<num_pages>212</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>Signet</publisher>
+<publication_day>1</publication_day>
+<publication_year>2000</publication_year>
+<publication_month>7</publication_month>
+<average_rating>3.76</average_rating>
+<ratings_count>15663</ratings_count>
+<description>While visiting Tommy's Aunt Ada at Sunny Ridge Nursing Home, Tuppence encounters some odd residents including Mrs. Lancaster who mystifies her with talk about "your poor child" and "something behind the fireplace".<br />
+<br />
+When Aunt Ada dies a few weeks later, she leaves Tommy and Tuppence a painting featuring a house, which Tuppence is sure she has seen before. This realization leads her on a dangerous adventure involving a missing tombstone, diamond smuggling and a horrible discovery of what Mrs. Lancaster was talking about.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1589991473p5/123715.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1589991473p2/123715.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/123715.Agatha_Christie ]]>
+</link>
+<average_rating>4.01</average_rating>
+<ratings_count>4173455</ratings_count>
+<text_reviews_count>218775</text_reviews_count>
+</author>
+</authors>
+<published>2000</published>
+<work>
+<id>580854</id>
+<uri>kca://work/amzn1.gr.work.v1.ghKBYVu_ZPS6Pwee6p14Qw</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Sun Aug 30 12:09:54 -0700 2020</started_at>
+<read_at>Sun Sep 06 20:19:39 -0700 2020</read_at>
+<date_added>Sun Aug 30 12:09:53 -0700 2020</date_added>
+<date_updated>Sun Sep 06 20:19:40 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3523162982 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3523162982 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3520167037</id>
+<book>
+<id type="integer">51496</id>
+<isbn>0451528956</isbn>
+<isbn13>9780451528957</isbn13>
+<text_reviews_count type="integer">7574</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.6BuMChQs30MS82xwCdX5HQ</uri>
+<title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+<title_without_series>The Strange Case of Dr. Jekyll and Mr. Hyde</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/51496.The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyde</link>
+<num_pages>144</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>Signet Classics</publisher>
+<publication_day>2</publication_day>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<average_rating>3.82</average_rating>
+<ratings_count>384741</ratings_count>
+<description>Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the famous Scottish author Robert Louis Stevenson that was first published in 1886. The work is commonly known today as The Strange Case of Dr Jekyll and Mr Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll &amp; Hyde. It is about a London lawyer named John Gabriel Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde.</description>
+<authors>
+<author>
+<id>854076</id>
+<name>Robert Louis Stevenson</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1192746024p5/854076.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1192746024p2/854076.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson ]]>
+</link>
+<average_rating>3.85</average_rating>
+<ratings_count>1112224</ratings_count>
+<text_reviews_count>37406</text_reviews_count>
+</author>
+</authors>
+<published>2003</published>
+<work>
+<id>3164921</id>
+<uri>kca://work/amzn1.gr.work.v1.R3GM48dZcaGaYGzIZJHQCg</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Fri Aug 28 16:30:38 -0700 2020</started_at>
+<read_at>Mon Aug 31 19:32:38 -0700 2020</read_at>
+<date_added>Fri Aug 28 16:30:38 -0700 2020</date_added>
+<date_updated>Mon Aug 31 19:32:39 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3520167037 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3520167037 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3514782235</id>
+<book>
+<id type="integer">2493</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">7431</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.Eu_4b59fezjXbHai_zIuYg</uri>
+<title>The Time Machine</title>
+<title_without_series>The Time Machine</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/2493.The_Time_Machine</link>
+<num_pages>118</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>Signet Classics</publisher>
+<publication_day>1</publication_day>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<average_rating>3.89</average_rating>
+<ratings_count>413024</ratings_count>
+<description>
+<b>“I’ve had a most amazing time....”</b>
+<br />
+<br />
+So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, <b>The Time Machine</b> will continue to enthrall readers for generations to come.<br />
+<br />
+</description>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1588944685p5/880695.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1588944685p2/880695.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/880695.H_G_Wells ]]>
+</link>
+<average_rating>3.83</average_rating>
+<ratings_count>1058132</ratings_count>
+<text_reviews_count>38092</text_reviews_count>
+</author>
+</authors>
+<published>2002</published>
+<work>
+<id>3234863</id>
+<uri>kca://work/amzn1.gr.work.v1.UB4M2_bYRls8ZrxmrB_bkw</uri>
+</work>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Tue Aug 25 13:22:07 -0700 2020</started_at>
+<read_at>Fri Aug 28 16:27:30 -0700 2020</read_at>
+<date_added>Tue Aug 25 13:22:07 -0700 2020</date_added>
+<date_updated>Fri Aug 28 16:27:30 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3514782235 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3514782235 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3513699853</id>
+<book>
+<id type="integer">25733983</id>
+<isbn>1101874937</isbn>
+<isbn13>9781101874936</isbn13>
+<text_reviews_count type="integer">6238</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.nq7LtkbRPl9Pzhcak5o23w</uri>
+<title>Lab Girl</title>
+<title_without_series>Lab Girl</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441826687l/25733983._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441826687l/25733983._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/25733983-lab-girl</link>
+<num_pages>290</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Knopf</publisher>
+<publication_day>5</publication_day>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<average_rating>4.00</average_rating>
+<ratings_count>51434</ratings_count>
+<description>Acclaimed scientist Hope Jahren has built three laboratories in which she’s studied trees, flowers, seeds, and soil. Her first book is a revelatory treatise on plant life—but it is also so much more. <br />
+<i>
+<br />
+Lab Girl</i> is a book about work, love, and the mountains that can be moved when those two things come together. It is told through Jahren’s stories: about her childhood in rural Minnesota with an uncompromising mother and a father who encouraged hours of play in his classroom’s labs; about how she found a sanctuary in science, and learned to perform lab work done “with both the heart and the hands”; and about the inevitable disappointments, but also the triumphs and exhilarating discoveries, of scientific work.<br />
+<br />
+Yet at the core of this book is the story of a relationship Jahren forged with a brilliant, wounded man named Bill, who becomes her lab partner and best friend. Their sometimes rogue adventures in science take them from the Midwest across the United States and back again, over the Atlantic to the ever-light skies of the North Pole and to tropical Hawaii, where she and her lab currently make their home.</description>
+<authors>
+<author>
+<id>14104736</id>
+<name>Hope Jahren</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1441827865p5/14104736.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1441827865p2/14104736.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/14104736.Hope_Jahren ]]>
+</link>
+<average_rating>4.01</average_rating>
+<ratings_count>53665</ratings_count>
+<text_reviews_count>7710</text_reviews_count>
+</author>
+</authors>
+<published>2016</published>
+<work>
+<id>45572105</id>
+<uri>kca://work/amzn1.gr.work.v1.SFiJ8N9BWvmzazEBdTFQSw</uri>
+</work>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Mon Aug 24 23:10:54 -0700 2020</started_at>
+<read_at>Thu Sep 03 22:27:42 -0700 2020</read_at>
+<date_added>Mon Aug 24 23:10:54 -0700 2020</date_added>
+<date_updated>Thu Sep 03 22:27:43 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3513699853 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3513699853 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3512920603</id>
+<book>
+<id type="integer">8921</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">5259</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.4-S3XOpLl0MyFMwp7QL_nw</uri>
+<title>The Hound of the Baskervilles (Sherlock Holmes, #5)</title>
+<title_without_series>The Hound of the Baskervilles</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355929358l/8921._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355929358l/8921._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles</link>
+<num_pages>256</num_pages>
+<format>Mass Market Paperback</format>
+<edition_information/>
+<publisher>Signet</publisher>
+<publication_day>1</publication_day>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4.12</average_rating>
+<ratings_count>254224</ratings_count>
+<description>We owe <i>The Hound of the Baskervilles</i> (1902) to Arthur Conan Doyle's good friend Fletcher "Bobbles" Robinson, who took him to visit some scary English moors and prehistoric ruins, and told him marvelous local legends about escaped prisoners and a 17th-century aristocrat who fell afoul of the family dog. Doyle transmogrified the legend: generations ago, a hound of hell tore out the throat of devilish Hugo Baskerville on the moonlit moor. Poor, accursed Baskerville Hall now has another mysterious death: that of Sir Charles Baskerville. Could the culprit somehow be mixed up with secretive servant Barrymore, history-obsessed Dr. Frankland, butterfly-chasing Stapleton, or Selden, the Notting Hill murderer at large? Someone's been signaling with candles from the mansion's windows. Nor can supernatural forces be ruled out. Can Dr. Watson--left alone by Sherlock Holmes to sleuth in fear for much of the novel--save the next Baskerville, Sir Henry, from the hound's fangs?<p> Many Holmes fans prefer Doyle's complete short stories, but their clockwork logic doesn't match the author's boast about this novel: it's "a real Creeper!" What distinguishes this particular <i>Hound</i> is its fulfillment of Doyle's great debt to Edgar Allan Poe--it's full of ancient woe, low moans, a Grimpen Mire that sucks ponies to Dostoyevskian deaths, and locals digging up Neolithic skulls without next-of-kins' consent. "The longer one stays here the more does the spirit of the moor sink into one's soul," Watson realizes. "Rank reeds and lush, slimy water-plants sent an odour of decay ... while a false step plunged us more than once thigh-deep into the dark, quivering mire, which shook for yards in soft undulations around our feet ... it was as if some malignant hand was tugging us down into those obscene depths." Read on--but, reader, watch your step! <i>--Tim Appelo</i>
+</p>
+</description>
+<authors>
+<author>
+<id>2448</id>
+<name>Arthur Conan Doyle</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1495008883p5/2448.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1495008883p2/2448.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle ]]>
+</link>
+<average_rating>4.20</average_rating>
+<ratings_count>1949266</ratings_count>
+<text_reviews_count>64559</text_reviews_count>
+</author>
+</authors>
+<published>2001</published>
+<work>
+<id>3311984</id>
+<uri>kca://work/amzn1.gr.work.v1.jxfSreNR-u6VYR64AoaD2w</uri>
+</work>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Mon Aug 24 12:50:56 -0700 2020</started_at>
+<read_at>Tue Aug 25 13:21:09 -0700 2020</read_at>
+<date_added>Mon Aug 24 12:50:55 -0700 2020</date_added>
+<date_updated>Tue Aug 25 13:21:09 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3512920603 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3512920603 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3510095513</id>
+<book>
+<id type="integer">6815174</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">96</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.1GYWGCk_KTl4hWHY2w5Pfw</uri>
+<title>The Premature Burial</title>
+<title_without_series>The Premature Burial</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418634551l/6815174._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418634551l/6815174._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/6815174-the-premature-burial</link>
+<num_pages>32</num_pages>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>3.84</average_rating>
+<ratings_count>2059</ratings_count>
+<description>The Premature Burial is a horror classic written by Edgar Allan Poe. This is a horror short story on the theme of being buried alive, which was a common fear in this period and Poe took advantage of the public interest. The first-person unnamed narrator describes his struggle with "attacks of the singular disorder which physicians have agreed to term catalepsy," a condition where he randomly falls into a death-like trance. This leads to his fear of being buried alive ("The true wretchedness," he says, is "to be buried while alive."). He awakens one morning to find his worst fears realized!</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>3374944</id>
+<uri>kca://work/amzn1.gr.work.v1.F4xTP6d9YFbyvDk7TwPzKw</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sat Aug 22 20:55:26 -0700 2020</date_added>
+<date_updated>Sat Aug 22 20:55:29 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3510095513 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3510095513 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3510094334</id>
+<book>
+<id type="integer">1406553</id>
+<isbn>1594561788</isbn>
+<isbn13>9781594561788</isbn13>
+<text_reviews_count type="integer">147</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.GRYLd8slnFrlOmlq7KzHjQ</uri>
+<title>The Facts in the Case of M. Valdemar</title>
+<title_without_series>The Facts in the Case of M. Valdemar</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/1406553.The_Facts_in_the_Case_of_M_Valdemar</link>
+<num_pages>24</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>BookSurge Classics</publisher>
+<publication_day>2</publication_day>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<average_rating>3.75</average_rating>
+<ratings_count>2649</ratings_count>
+<description>An unnamed narrator performs a remarkable experiment when he hypnotizes a man In articulo mortis—at the point of death. Because the story wasn’t identified as fiction when it was first published in 1845, many readers believed Edgar Allan Poe’s sensational work to be a true account.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published>2004</published>
+<work>
+<id>1396795</id>
+<uri>kca://work/amzn1.gr.work.v1.H2bwB7UUpQpcFsMjssxV6g</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sat Aug 22 20:54:29 -0700 2020</date_added>
+<date_updated>Sat Aug 22 20:54:29 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3510094334 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3510094334 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3510092398</id>
+<book>
+<id type="integer">391724</id>
+<isbn>1594561753</isbn>
+<isbn13>9781594561757</isbn13>
+<text_reviews_count type="integer">1198</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.CZRvtau1vnF1k7NTqL-GMA</uri>
+<title>The Black Cat</title>
+<title_without_series>The Black Cat</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/391724.The_Black_Cat</link>
+<num_pages>24</num_pages>
+<format/>
+<edition_information>BookSurge Classics</edition_information>
+<publisher>BookSurge</publisher>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4.05</average_rating>
+<ratings_count>28374</ratings_count>
+<description>"The Black Cat" is one of Edgar Allan Poe's most memorable stories. The tale centers around a black cat and the subsequent deterioration of a man. The story is often linked with "The Tell-Tale Heart" because of the profound psychological elements these two works share.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>15570126</id>
+<uri>kca://work/amzn1.gr.work.v1.89hUBN8-TxQA1e78ULqZaw</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sat Aug 22 20:52:55 -0700 2020</date_added>
+<date_updated>Sat Aug 22 20:52:55 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3510092398 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3510092398 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3504930361</id>
+<book>
+<id type="integer">175516</id>
+<isbn>1594561796</isbn>
+<isbn13>9781594561795</isbn13>
+<text_reviews_count type="integer">1086</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.yvXZmZ11ILwvsoIcokIxUg</uri>
+<title>The Fall of the House of Usher</title>
+<title_without_series>The Fall of the House of Usher</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/175516.The_Fall_of_the_House_of_Usher</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>3.94</average_rating>
+<ratings_count>44425</ratings_count>
+<description>Dive into this classic from the singular mind of Edgar Allan Poe, who is widely regarded as the master of short horror fiction. "The Fall of the House of Usher" recounts the terrible events that befall the last remaining members of the once-illustrious Usher clan before it is -- quite literally -- rent asunder. With amazing economy, Poe plunges the reader into a state of deliciously agonizing suspense. It's a must-read for fans of the golden era of horror writing.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>15570703</id>
+<uri>kca://work/amzn1.gr.work.v1.jxUxcd4U-RHJHreiQJ2-EA</uri>
+</work>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Wed Aug 19 16:32:36 -0700 2020</started_at>
+<read_at>Sat Aug 22 20:59:10 -0700 2020</read_at>
+<date_added>Wed Aug 19 16:32:35 -0700 2020</date_added>
+<date_updated>Sat Aug 22 20:59:11 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3504930361 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3504930361 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3504345459</id>
+<book>
+<id type="integer">261240</id>
+<isbn>1594561869</isbn>
+<isbn13>9781594561863</isbn13>
+<text_reviews_count type="integer">1361</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.4kZV2LxKGyejphDkOeRtXw</uri>
+<title>The Cask of Amontillado</title>
+<title_without_series>The Cask of Amontillado</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936575l/261240._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936575l/261240._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado</link>
+<num_pages/>
+<format/>
+<edition_information>BookSurge Classics, title no. 186</edition_information>
+<publisher>BookSurge</publisher>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4.09</average_rating>
+<ratings_count>62330</ratings_count>
+<description>"The Cask of Amontillado" (sometimes spelled "The Casque of Amontillado") is a short story, written by Edgar Allan Poe and first published in the November 1846 issue of Godey's Lady's Book. <br />
+<br />
+The story is set in a nameless Italian city in an unspecified year (possibly sometime during the eighteenth century) and concerns the deadly revenge taken by the narrator on a friend who he claims has insulted him. Like several of Poe's stories, and in keeping with the 19th-century fascination with the subject, the narrative revolves around a person being buried alive – in this case, by immurement.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>1405544</id>
+<uri>kca://work/amzn1.gr.work.v1.FIfrt3uAbDo_JEcyn02Hlw</uri>
+</work>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Wed Aug 19 09:27:05 -0700 2020</started_at>
+<read_at>Wed Aug 19 16:31:57 -0700 2020</read_at>
+<date_added>Wed Aug 19 09:27:04 -0700 2020</date_added>
+<date_updated>Wed Aug 19 16:31:57 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3504345459 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3504345459 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3503607893</id>
+<book>
+<id type="integer">28502882</id>
+<isbn>1784787272</isbn>
+<isbn13>9781784787271</isbn13>
+<text_reviews_count type="integer">99</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.6hYyCwwlJ7YE9VbNc37PvQ</uri>
+<title>The ABCs of Socialism</title>
+<title_without_series>The ABCs of Socialism</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472760598l/28502882._SY160_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472760598l/28502882._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/28502882-the-abcs-of-socialism</link>
+<num_pages>144</num_pages>
+<format>ebook</format>
+<edition_information/>
+<publisher>Verso</publisher>
+<publication_day>12</publication_day>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4.04</average_rating>
+<ratings_count>1066</ratings_count>
+<description>Slim, accessible, inexpensive, irreverent introduction to socialism by the writers of "Jacobin" magazine <br />
+The remarkable run of self-proclaimed democratic socialist Bernie Sanders for president of the United States has prompted for the first time in decades and to the shock of many a national conversation about socialism. A "New York Times" poll in late November found that a majority of Democrats had a favorable view of socialism, and in New Hampshire in February, more than half of Democratic voters under 35 told the Boston Globe they call themselves socialists. It s unclear exactly what socialism means to this generation, but couple with the ascendancy of longtime leftwinger Jeremy Corbyn to the leadership of the Labour Party in the UK, it s clear there s a historic, generational shift underway. <br />
+This book steps into this moment to offer a clear, accessible, informative, and irreverent guide to socialism for the uninitiated. Written by young writers from the dynamic magazine "Jacobin," alongside several distinguished scholars, "The ABCs of Socialism" answers basic questions, including ones that many want to know but might be afraid to ask ( Doesn t socialism always end up in dictatorship?, Will socialists take my Kenny Loggins records? ). Disarming and pitched to a general readership without sacrificing intellectual depth, this will be the best introduction an idea whose time seems to have come again."</description>
+<authors>
+<author>
+<id>6906478</id>
+<name>Bhaskar Sunkara</name>
+<role>Editor</role>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1519702447p5/6906478.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1519702447p2/6906478.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/6906478.Bhaskar_Sunkara ]]>
+</link>
+<average_rating>3.88</average_rating>
+<ratings_count>2231</ratings_count>
+<text_reviews_count>295</text_reviews_count>
+</author>
+</authors>
+<published>2016</published>
+<work>
+<id>48656217</id>
+<uri>kca://work/amzn1.gr.work.v1.0UgWIzylozQ4D8WG1D8izA</uri>
+</work>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Tue Aug 18 20:58:11 -0700 2020</date_added>
+<date_updated>Tue Aug 18 20:58:14 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3503607893 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3503607893 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3500781962</id>
+<book>
+<id type="integer">419520</id>
+<isbn>1594561907</isbn>
+<isbn13>9781594561900</isbn13>
+<text_reviews_count type="integer">239</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.M2wrPgH9czkjJRvWd5pCVw</uri>
+<title>Ligeia</title>
+<title_without_series>Ligeia</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/419520.Ligeia</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>3.78</average_rating>
+<ratings_count>3792</ratings_count>
+<description>Ligeia is a short story written by Edgar Allan Poe and first published in 1838. Ligeia is widely considered to be one of the top 100 greatest books of all time. This great novel will surely attract a whole new generation of readers. For many, Ligeia is required reading for various courses and curriculum's. And for others who simply enjoy reading timeless pieces of classic literature, this gem by Edgar Allan Poe is highly recommended.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p5/4624490.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1454522972p2/4624490.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe ]]>
+</link>
+<average_rating>4.17</average_rating>
+<ratings_count>1318081</ratings_count>
+<text_reviews_count>36555</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>408663</id>
+<uri>kca://work/amzn1.gr.work.v1.RFEemPcmw8LTbxAhpPIJBg</uri>
+</work>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Mon Aug 17 09:15:29 -0700 2020</started_at>
+<read_at>Tue Aug 18 14:00:26 -0700 2020</read_at>
+<date_added>Mon Aug 17 09:15:29 -0700 2020</date_added>
+<date_updated>Tue Aug 18 14:00:26 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3500781962 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3500781962 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3500074480</id>
+<book>
+<id type="integer">48645631</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">0</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.si8ED-UD76e5llrt</uri>
+<title>Black Forest</title>
+<title_without_series>Black Forest</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/48645631-black-forest</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>3.67</average_rating>
+<ratings_count>119</ratings_count>
+<description>A man decides he is old enough. A woman returns early from a lovers' retreat to a bottle of pills at home. And how should you explain the nuances of contemporary Paris to your mother, twenty – five years dead? Valérie Mréjen 's <i>Black Forest</i> is a book of mourning that isn't morbid or sentimental, but rather an elegant and wryly humorous brace against the void. With a paradoxically detached intimacy, Mréjen follows death's dark and twisted path through the lives it touches, wringing out every possible meaning — or non–meaning — along the way. A writer at the height of her career who draws comparisons to Georges Perec and Nathalie Sarraute, Mréjen has cemented her status as an auteur with a singular voice, guiding us through the Black Forest of ghosts that populate her subconscious.</description>
+<authors>
+<author>
+<id>1357818</id>
+<name>Valérie Mréjen</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1396407652p5/1357818.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1396407652p2/1357818.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/1357818.Val_rie_Mr_jen ]]>
+</link>
+<average_rating>3.50</average_rating>
+<ratings_count>360</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>66832432</id>
+<uri>kca://work/amzn1.gr.work.v1.qYmSNFUsdU6otIH__Cer-w</uri>
+</work>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="196026452" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Sun Aug 16 21:37:53 -0700 2020</started_at>
+<read_at>Sun Aug 16 22:38:25 -0700 2020</read_at>
+<date_added>Sun Aug 16 21:37:53 -0700 2020</date_added>
+<date_updated>Sun Aug 16 22:38:25 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body></body>
+<comments_count>0</comments_count>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3500074480 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3500074480 ]]>
+</link>
+<owned>0</owned>
+</review>
+</reviews>
+</GoodreadsResponse>
