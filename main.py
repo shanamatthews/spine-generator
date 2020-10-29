@@ -25,7 +25,7 @@ reading_response = requests.get('https://www.goodreads.com/review/list', params=
 books_read = xmltodict.parse(read_response.content)['GoodreadsResponse']['reviews']['review']
 books_reading = xmltodict.parse(reading_response.content)['GoodreadsResponse']['reviews']['review']
 
-#
+# print(books_read[16])
 
 read_fields = ['Title', 'Date Finished', 'Image URL', 'Num Pages']
 
@@ -34,7 +34,7 @@ with open('recently-read.csv', 'w') as csvfile:
     filewriter.writerow(read_fields)
 
     for book in books_read:
-        read_at = book['read_at']
+        read_at = book['read_at'] if book['read_at'] != None else book['date_updated']
         book_data = book['book']
         filewriter.writerow([book_data['title_without_series'], read_at, book_data['image_url'], book_data['num_pages']])
 
