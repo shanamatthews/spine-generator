@@ -25,8 +25,9 @@ reading_response = requests.get('https://www.goodreads.com/review/list', params=
 books_read = xmltodict.parse(read_response.content)['GoodreadsResponse']['reviews']['review']
 books_reading = xmltodict.parse(reading_response.content)['GoodreadsResponse']['reviews']['review']
 
+#
 
-read_fields = ['Title', 'Date Finished', 'Image URL']
+read_fields = ['Title', 'Date Finished', 'Image URL', 'Num Pages']
 
 with open('recently-read.csv', 'w') as csvfile:
     filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
@@ -35,9 +36,9 @@ with open('recently-read.csv', 'w') as csvfile:
     for book in books_read:
         read_at = book['read_at']
         book_data = book['book']
-        filewriter.writerow([book_data['title_without_series'], read_at, book_data['image_url']])
+        filewriter.writerow([book_data['title_without_series'], read_at, book_data['image_url'], book_data['num_pages']])
 
-reading_fields = ['Title', 'Date Started', 'Image URL']
+reading_fields = ['Title', 'Date Started', 'Image URL', 'Num Pages']
 
 with open('currently-reading.csv', 'w') as csvfile:
     filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
@@ -46,4 +47,4 @@ with open('currently-reading.csv', 'w') as csvfile:
     for book in books_reading:
         read_at = book['started_at']
         book_data = book['book']
-        filewriter.writerow([book_data['title_without_series'], read_at, book_data['image_url']])
+        filewriter.writerow([book_data['title_without_series'], read_at, book_data['image_url'], book_data['num_pages']])
