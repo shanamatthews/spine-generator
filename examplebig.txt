@@ -1,0 +1,75 @@
+reviews = xmltodict.parse(response.content)
+reviews = reviews['GoodreadsResponse']['reviews']['review']
+reviews[0]
+
+OrderedDict([
+    ('id', '3591800112'),
+    ('book', OrderedDict([
+        ('id', OrderedDict([
+            ('@type', 'integer'),
+            ('#text', '34037113')])),
+            ('isbn', OrderedDict([
+                ('@nil', 'true')])),
+                ('isbn13', OrderedDict([
+                    ('@nil', 'true')])),
+        ('text_reviews_count', OrderedDict([
+            ('@type', 'integer'),
+            ('#text', '6088')])),
+        ('uri', 'kca://book/amzn1.gr.book.v1.piq5zqTWOaInrovTf7yEfw'),
+        ('title', 'The Rules of Magic (Practical Magic, #0.2)'),
+        ('title_without_series', 'The Rules of Magic'),
+        ('image_url', 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492802012l/34037113._SX98_.jpg'),
+        ('small_image_url', 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492802012l/34037113._SX50_.jpg'),
+        ('large_image_url', None),
+        ('link', 'https://www.goodreads.com/book/show/34037113-the-rules-of-magic'),
+        ('num_pages', '369'),
+        ('format', 'Kindle Edition'),
+        ('edition_information', None),
+        ('publisher', 'Simon & Schuster'),
+        ('publication_day', '10'),
+        ('publication_year', '2017'),
+        ('publication_month', '10'),
+        ('average_rating', '3.97'),
+        ('ratings_count', '67853'),
+        ('description', '<i>Find your magic</i><br /><br />For the Owens family, love is a curse that began in 1620, when Maria Owens was charged with witchery for loving the wrong man.<br /><br />Hundreds of years later, in New York City at the cusp of the sixties, when the whole world is about to change, Susanna Owens knows that her three children are dangerously unique. Difficult Franny, with skin as pale as milk and blood red hair, shy and beautiful Jet, who can read other people’s thoughts, and charismatic Vincent, who began looking for trouble on the day he could walk.<br /><br />From the start Susanna sets down rules for her children: No walking in the moonlight, no red shoes, no wearing black, no cats, no crows, no candles, no books about magic. And most importantly, never, ever, fall in love. But when her children visit their Aunt Isabelle, in the small Massachusetts town where the Owens family has been blamed for everything that has ever gone wrong, they uncover family secrets and begin to understand the truth of who they are. Back in New York City each begins a risky journey as they try to escape the family curse.<br /><br />The Owens children cannot escape love even if they try, just as they cannot escape the pains of the human heart. The two beautiful sisters will grow up to be the revered, and sometimes feared, aunts in <i>Practical Magic</i>, while Vincent, their beloved brother, will leave an unexpected legacy.'),
+        ('authors', OrderedDict([
+            ('author', OrderedDict([
+                ('id', '3502'),
+                ('name', 'Alice Hoffman'),
+                ('role', None),
+                ('image_url', OrderedDict([
+                    ('@nophoto', 'false'),
+                    ('#text', 'https://images.gr-assets.com/authors/1590599928p5/3502.jpg')])),
+                ('small_image_url', OrderedDict([
+                    ('@nophoto', 'false'),
+                    ('#text', 'https://images.gr-assets.com/authors/1590599928p2/3502.jpg')])),
+                ('link', 'https://www.goodreads.com/author/show/3502.Alice_Hoffman'),
+                ('average_rating', '3.84'),
+                ('ratings_count', '636069'),
+                ('text_reviews_count', '65394')]))])),
+        ('published', '2017'),
+        ('work', OrderedDict([
+            ('id', '55038896'),
+            ('uri', 'kca://work/amzn1.gr.work.v1.k2gd_A-zJt_UScWOGGdxzg')]))])),
+    ('rating', '3'),
+    ('votes', '0'),
+    ('spoiler_flag', 'false'),
+    ('spoilers_state', 'none'),
+    ('shelves', OrderedDict([
+        ('shelf', OrderedDict([
+            ('@name', 'read'),
+            ('@exclusive', 'true'),
+            ('@id', '196026452'),
+            ('@review_shelf_id', '')]))])),
+    ('recommended_for', None),
+    ('recommended_by', None),
+    ('started_at', 'Sun Oct 11 23:01:47 -0700 2020'),
+    ('read_at', 'Sat Oct 24 22:41:46 -0700 2020'),
+    ('date_added', 'Sun Oct 11 23:01:35 -0700 2020'),
+    ('date_updated', 'Sat Oct 24 22:41:46 -0700 2020'),
+    ('read_count', '1'),
+    ('body', None),
+    ('comments_count', '0'),
+    ('url', 'https://www.goodreads.com/review/show/3591800112'),
+    ('link', 'https://www.goodreads.com/review/show/3591800112'),
+    ('owned', '0')])
