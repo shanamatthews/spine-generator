@@ -43,10 +43,14 @@ def main():
         books_reading.append(BookData(book_xml, date=book_xml['started_at']))
 
     for book in books_read:
-        book.colors = get_image_colors(book.imageUrl)
+        colors = get_image_colors(book.imageUrl)
+        book.coverColor = colors['coverColor']
+        book.accentColor = colors['accentColor']
 
     for book in books_reading:
-        book.colors = get_image_colors(book.imageUrl)
+        colors = get_image_colors(book.imageUrl)
+        book.coverColor = colors['coverColor']
+        book.accentColor = colors['accentColor']
 
     create_book_csv(books_read, 'recently-read.csv')
     create_book_csv(books_reading, 'currently-reading.csv')
