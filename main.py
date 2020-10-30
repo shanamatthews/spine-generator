@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import csv
 import json
-import BookData
+from BookData import BookData
 
 from typing import Final
 
@@ -36,13 +36,13 @@ def main():
 
     for book_xml in books_read_xml:
         books_read.append(
-            BookData(book_xml),
-            book_xml['read_at'] if book_xml['read_at'] != None else book_xml['date_updated'])
+            BookData(book_xml,
+            date=book_xml['read_at'] if book_xml['read_at'] != None else book_xml['date_updated']))
 
     for book_xml in books_reading_xml:
-        books_reading.append(BookData(book_xml), book_xml['started_at'])
+        books_reading.append(BookData(book_xml, date=book_xml['started_at']))
 
-    get_image_colors()
+    # get_image_colors()
 
     create_book_csv(books_read, 'recently-read.csv')
     create_book_csv(books_reading, 'currently-reading.csv')
@@ -52,7 +52,7 @@ def get_image_colors(image_ur):
     analyze_url = COMPUTER_VISION_ENDPOINT + 'vision/v3.1/analyze'
     headers = {'Ocp-Apim-Subscription-Key': COMPUTER_VISION_KEY}
     params = {'visualFeatures': 'Categories,Description,Color'}
-    data = {'url': image_url}
+    data = {'url': analyze_url}
     response = requests.post(analyze_url, headers=headers,
                          params=params, json=data)
 
