@@ -48,11 +48,11 @@ def main():
     for book in books_reading:
         book.colors = get_image_colors(book.imageUrl)
 
-    # create_book_csv(books_read, 'recently-read.csv')
-    # create_book_csv(books_reading, 'currently-reading.csv')
+    create_book_csv(books_read, 'recently-read.csv')
+    create_book_csv(books_reading, 'currently-reading.csv')
 
-    create_book_json(books_read, 'recently-read.json')
-    create_book_json(books_reading, 'currently-reading.json')
+    # create_book_json(books_read, 'recently-read.json')
+    # create_book_json(books_reading, 'currently-reading.json')
 
 
 def get_image_colors(image_url):
@@ -66,7 +66,8 @@ def get_image_colors(image_url):
     response.raise_for_status()
 
     analysis = response.json()
-    image_colors = {'dominantColors': analysis['color']['dominantColors'], 'accentColor': analysis['color']['accentColor']}
+
+    image_colors = {'coverColor': analysis['color']['dominantColorBackground'], 'accentColor': analysis['color']['accentColor']}
     return image_colors
 
 def get_goodreads_data(currently_reading=False):
@@ -79,6 +80,7 @@ def get_goodreads_data(currently_reading=False):
 
     return response
 
+# This doesn't jsonify correctly
 def create_book_json(book_array, file_name):
     with open(file_name, 'w') as jsonfile:
         for book in book_array:
@@ -88,11 +90,11 @@ def create_book_csv(book_array, file_name):
     with open(file_name, 'w') as csvfile:
         filewriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
 
-        headers = ['Title', 'Date', 'NumPages', 'ImageURL']
+        headers = ['Title', 'Date', 'NumPages', 'CoverColor', 'AccentColor', 'ImageURL']
         filewriter.writerow(headers)
 
         for book in book_array:
-            filewriter.writerow([book.title, book.date, book.numPages, book.imageUrl])
+            filewriter.writerow([book.title, book.date, book.numPages, book.coverColor, book.accentColor, book.imageUrl])
 
 if __name__ == "__main__":
     main()
