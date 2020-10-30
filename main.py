@@ -19,7 +19,7 @@ GR_READING_SHELF: Final = 'currently-reading'
 COMPUTER_VISION_KEY = os.getenv('COMPUTER_VISION_KEY')
 COMPUTER_VISION_ENDPOINT = os.getenv('COMPUTER_VISION_ENDPOINT')
 
-NUM_BOOKS: Final = 60
+NUM_BOOKS: Final = 20
 
 def main():
 
@@ -42,27 +42,32 @@ def main():
     for book_xml in books_reading_xml:
         books_reading.append(BookData(book_xml, date=book_xml['started_at']))
 
-    # get_image_colors()
+    for book in books_read:
+        book.colors = get_image_colors(book.imageUrl)
 
-    create_book_csv(books_read, 'recently-read.csv')
-    create_book_csv(books_reading, 'currently-reading.csv')
+    for book in books_reading:
+        book.colors = get_image_colors(book.imageUrl)
+
+    # create_book_csv(books_read, 'recently-read.csv')
+    # create_book_csv(books_reading, 'currently-reading.csv')
+
+    create_book_json(books_read, 'recently-read.json')
+    create_book_json(books_reading, 'currently-reading.json')
 
 
-def get_image_colors(image_ur):
+def get_image_colors(image_url):
     analyze_url = COMPUTER_VISION_ENDPOINT + 'vision/v3.1/analyze'
     headers = {'Ocp-Apim-Subscription-Key': COMPUTER_VISION_KEY}
     params = {'visualFeatures': 'Categories,Description,Color'}
-    data = {'url': analyze_url}
+    data = {'url': image_url}
     response = requests.post(analyze_url, headers=headers,
                          params=params, json=data)
 
     response.raise_for_status()
 
-    # The 'analysis' object contains various fields that describe the image. The most
-    # relevant caption for the image is obtained from the 'description' property.
     analysis = response.json()
-    print(json.dumps(response.json()))
-    image_caption = analysis["description"]["captions"][0]["text"].capitalize()
+    image_colors = {'dominantColors': analysis['color']['dominantColors'], 'accentColor': analysis['color']['accentColor']}
+    return image_colors
 
 def get_goodreads_data(currently_reading=False):
     shelf = GR_READ_SHELF
@@ -73,6 +78,11 @@ def get_goodreads_data(currently_reading=False):
     response = requests.get('https://www.goodreads.com/review/list', params=params)
 
     return response
+
+def create_book_json(book_array, file_name):
+    with open(file_name, 'w') as jsonfile:
+        for book in book_array:
+            json.dump(book.to_json(), jsonfile)
 
 def create_book_csv(book_array, file_name):
     with open(file_name, 'w') as csvfile:
