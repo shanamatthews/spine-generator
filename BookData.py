@@ -16,3 +16,6 @@ class BookData:
             'CoverColor': self.coverColor,
             'AccentColor': self.accentColor
         }
+
+    def set_accent_color(self, accentColor):
+        self.accentColor = "#" + accentColor

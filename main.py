@@ -45,12 +45,12 @@ def main():
     for book in books_read:
         colors = get_image_colors(book.imageUrl)
         book.coverColor = colors['coverColor']
-        book.accentColor = colors['accentColor']
+        book.set_accent_color(colors['accentColor'])
 
     for book in books_reading:
         colors = get_image_colors(book.imageUrl)
         book.coverColor = colors['coverColor']
-        book.accentColor = colors['accentColor']
+        book.set_accent_color(colors['accentColor'])
 
     create_book_csv(books_read, 'recently-read.csv')
     create_book_csv(books_reading, 'currently-reading.csv')
