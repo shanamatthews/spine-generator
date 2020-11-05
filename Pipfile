@@ -10,6 +10,8 @@ pylint = "*"
 requests = "*"
 python-dotenv = "*"
 xmltodict = "*"
+pillow = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"

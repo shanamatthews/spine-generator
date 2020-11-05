@@ -8,6 +8,8 @@ from BookData import BookData
 
 from typing import Final
 
+# get colors from this api instead? http://colormind.io/api-access/
+
 load_dotenv()
 
 GOODREADS_KEY = os.getenv('GOODREADS_KEY')
